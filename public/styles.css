@@ -36,6 +36,7 @@ footer {
 footer p {
   color: #ccc;
 }
+
 .note {
   background: #fff;
   border-radius: 7px;
@@ -45,13 +46,17 @@ footer p {
   margin: 16px;
   float: left;
 }
+
 .note h1 {
-  font-size: 1.1em;
+  font-size: 16px;
   margin-bottom: 6px;
+  letter-spacing: 0.04em;
 }
+
 .note p {
-  font-size: 1.1em;
+  font-size: 14px;
   margin-bottom: 10px;
+  line-height: 1.5;
   white-space: pre-wrap;
   word-wrap: break-word;
 }
