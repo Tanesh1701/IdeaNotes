@@ -6,9 +6,9 @@ function ConnectLines() {
      <Xarrow 
       start = "5"
       end = "1"
-      strokeWidth={2}
+      strokeWidth={3}
       showHead = {false}
-      color = {"black"}
+      color = {"#818181"}
      />
     );
 }
