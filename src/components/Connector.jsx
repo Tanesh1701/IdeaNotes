@@ -4,7 +4,7 @@ import Xarrow from "react-xarrows";
 function ConnectLines() {
     return(
      <Xarrow 
-      start = "5"
+      start = "0"
       end = "1"
       strokeWidth={3}
       showHead = {false}

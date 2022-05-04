@@ -35,6 +35,10 @@ function App() {
     })
   }
 
+  function Lines() {
+
+  }
+
   return (
     <div>
       <Header />
@@ -51,7 +55,7 @@ function App() {
           onDelete = {deleteNote}
         />)}
       <Footer />
-      <ConnectLines/>
+      {/* <ConnectLines/> */}
       </Xwrapper>
     </div>
   );
