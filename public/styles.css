@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #001EFF;
+  background-color: #FF006C;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -85,7 +85,7 @@ form button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #001EFF;
+  background: #FF006C;
   color: #fff;
   border: none;
   border-radius: 50%;
@@ -104,7 +104,7 @@ form button:hover{
 .note button {
   float: right;
   margin-right: 10px;
-  color: #001EFF;
+  color: #FF006C;
   border: none;
   font-size: 12px;
   background-color: #fff;
